@@ -11,3 +11,12 @@ I was responsible for designing the system architecture for the web application.
 
 AWS Hosting and Cloud Infrastructure
 To ensure a reliable and scalable hosting solution, I leveraged Amazon Web Services for deploying and maintaining the web application. Using services such as EC2 for computing power, RDS for managed databases, and S3 for file storage, I architected a robust cloud-based infrastructure. AWS allowed us to efficiently scale the application based on traffic demands and provided security features such as encryption and access control. I also managed ongoing deployments and ensured that the infrastructure was both cost-effective and performant.
+
+
+![image](https://github.com/user-attachments/assets/338793e4-2293-4da1-9997-1b84c50dd7a4)
+
+![image](https://github.com/user-attachments/assets/58f5ff06-0a44-48c7-85b8-41c5e2304fce)
+
+![image](https://github.com/user-attachments/assets/2cb83bba-775e-4ea4-ad00-02864d00107b)
+
+![image](https://github.com/user-attachments/assets/7934b539-676c-4b64-b628-635445249001)
